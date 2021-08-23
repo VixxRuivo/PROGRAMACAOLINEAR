@@ -6,7 +6,7 @@ matrizresult = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
 matrizt= list(map(list, zip(*matriz)))
 print('=-=' * 20)
 
-print('Dada a Matriz A, obtenha a matriz B tal que B = A + At')
+print('Dada a Matriz A, obtenha a matriz B e que B = A + At')
 
 print('\nMatriz A:')
 for j in matriz:
